@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T22:53:06.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YqMENpbnyc6HtBt5vMWR" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T23:01:54.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="PiTpckHJS4rJ9J1suv4q" version="15.6.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1119" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -93,8 +93,11 @@
         <mxCell id="ONxjO6aA4XHM8bgHhOz7-16" value="&lt;b&gt;obtenerServicio&lt;br&gt;&lt;/b&gt;keySector = 1&lt;br&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;Sin Especificar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Odontología&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;Cardiología&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;Laboratorio&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;Neurología&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;Radiología&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;Gastroenterología&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;HC Digitalizada&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;Fonoaudiología&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;Junta Médica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;Medicina Laboral&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
           <mxGeometry x="920" y="35" width="160" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="ONxjO6aA4XHM8bgHhOz7-17" value="nombre del archivo esta compuesto por: DocumentoPaciente_TipoDocumento_NombreArchivo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
-          <mxGeometry x="350" y="710" width="420" height="30" as="geometry" />
+        <mxCell id="ONxjO6aA4XHM8bgHhOz7-17" value="nombre&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;carpetaPaciente&amp;nbsp;&lt;/span&gt;: Documento_TipoDocumento_TipoRestriccion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+          <mxGeometry x="360" y="680" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ONxjO6aA4XHM8bgHhOz7-18" value="nombre&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;archivosPaciente&lt;/span&gt;: NombreArchivo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+          <mxGeometry x="360" y="705" width="460" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
